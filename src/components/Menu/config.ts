@@ -55,8 +55,21 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/ZUMFinance',
+        href: 'https://github.com/TournamentGameToken/Zum.finance/tree/master',
       },
+      {
+        label: 'Docs',
+        href: 'https://docs.zum.finance/',
+      },
+      {
+        label: 'Blog',
+        href: 'https://blog.zum.finance/',
+      },
+      {
+        label: 'Vote',
+        href: 'https://snapshot.org/#/zumtoken.eth',
+      },
+      
     ],
   },
 ]
