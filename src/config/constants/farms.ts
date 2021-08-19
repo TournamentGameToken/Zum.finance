@@ -18,6 +18,22 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
   },
+      {
+    pid: 6,
+    risk: 5,
+    lpSymbol: 'ZMX-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA7a261a8002497c8BDB2664896Da491C928CD9f6',
+    },
+    tokenSymbol: 'ZMX',
+    tokenAddresses: {
+      97: '',
+      56: '0xf8e031265601419b84840617Cd18b658d29DDc41',
+    },
+    quoteTokenSymbol: QuoteToken.BUSD,
+    quoteTokenAdresses: contracts.busd,
+  },
   {
     pid: 1,
     risk: 5,
