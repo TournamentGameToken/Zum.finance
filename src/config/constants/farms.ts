@@ -93,7 +93,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'ZUM',
     tokenAddresses: {
       97: '',
-      56: '0x00375ff8ede1c7ca76c1821f804dec52c6d1f627',
+      56: '0x54C2c07b3Af037567269Ad6A168D5bD527867b58',
     },
     quoteTokenSymbol: QuoteToken.CAKE,
     quoteTokenAdresses: contracts.cake,
