@@ -26,7 +26,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xA7a261a8002497c8BDB2664896Da491C928CD9f6',
     },
-    tokenSymbol: 'ZMX',
+    tokenSymbol: 'Zumfi',
     tokenAddresses: {
       97: '',
       56: '0xf8e031265601419b84840617Cd18b658d29DDc41',
@@ -37,7 +37,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'ZUM BNB',
+    lpSymbol: 'ZUM-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x5eC714a1f3A04Ab04760E97c1642B60e90bCf576',
